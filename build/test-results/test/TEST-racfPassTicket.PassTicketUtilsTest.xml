@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="racfPassTicket.PassTicketUtilsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-01-13T00:04:27" hostname="C02CV4AFMD6T" time="0.002">
+  <properties/>
+  <testcase name="validateRACFsecuredSignonApplicationKeyShouldThrowAnExceptionIfInputKeyIsNot16CharactersLong" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <testcase name="validateUserIdOrApplicationNameShouldReturnAValidString" classname="racfPassTicket.PassTicketUtilsTest" time="0.001"/>
+  <testcase name="validateUserIdOrApplicationNameShouldThrowAnExceptionIfInputIsEmpty" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <testcase name="validateUserIdOrApplicationNameShouldThrowAnExceptionIfIputIsNull" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <testcase name="validateRACFsecuredSignonApplicationKeyShouldReturnAValidSecretKey" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <testcase name="xorShouldReturnValidResult" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <testcase name="validateUserIdOrApplicationNameShouldThrowAnExceptionIfInputIsLongerThan8Chars" classname="racfPassTicket.PassTicketUtilsTest" time="0.001"/>
+  <testcase name="byteArrayToBitArrayShouldReturnValidResult" classname="racfPassTicket.PassTicketUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
